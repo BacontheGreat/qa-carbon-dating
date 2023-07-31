@@ -10,7 +10,7 @@ public class Carbon14Dating {
         setRemainingAmount(remainingAmount);
         this.age = calculateAge();
     }
-
+// Luke Matheis was here
 
     /**
      * This setter only allows numbers => 1. If it is not >=1 the setter defaults the value to 1.
